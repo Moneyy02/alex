@@ -56,12 +56,19 @@ bash
 Copy code
 alex/
 ├── index.html      # main HTML page
+
 ├── style.css       # styling for UI
+
 ├── main.js         # core JavaScript logic
+
 ├── script.js       # possibly additional JS (event-handling, etc.)
+
 ├── mic.svg         # microphone icon graphic
+
 ├── voice.gif       # visual animation for voice capture/feedback
+
 └── ...             # any other assets
+
 Technologies Used
 HTML5
 
