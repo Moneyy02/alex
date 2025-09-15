@@ -43,13 +43,6 @@ These instructions will help you run this project locally.
    ```bash
    git clone https://github.com/Moneyy02/alex.git
    cd alex
-If using a simple local server, serve the folder (examples below):
-
-bash
-Copy code
-# Using Python 3
-python3 -m http.server 8000
-Or any static server of your choice.
 
 Usage
 Open index.html in the browser (or access via http://localhost:8000/index.html if using a local server).
