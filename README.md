@@ -43,3 +43,37 @@ These instructions will help you run this project locally.
    ```bash
    git clone https://github.com/Moneyy02/alex.git
    cd alex
+If using a simple local server, serve the folder (examples below):
+
+bash
+Copy code
+# Using Python 3
+python3 -m http.server 8000
+Or any static server of your choice.
+
+Usage
+Open index.html in the browser (or access via http://localhost:8000/index.html if using a local server).
+
+Grant microphone permissions when prompted.
+
+Interact via voice (e.g. speak, record) and see the feedback or response on screen.
+
+Project Structure
+bash
+Copy code
+alex/
+├── index.html      # main HTML page
+├── style.css       # styling for UI
+├── main.js         # core JavaScript logic
+├── script.js       # possibly additional JS (event-handling, etc.)
+├── mic.svg         # microphone icon graphic
+├── voice.gif       # visual animation for voice capture/feedback
+└── ...             # any other assets
+Technologies Used
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+Web Speech / Media APIs (for voice/mic input)
