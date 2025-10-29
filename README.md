@@ -1,4 +1,4 @@
-🌟 Alex — Your Smart Web Companion
+##🌟 Alex — Your Smart Web Companion
 
 Live Demo: 🚀 https://alex-voiceassistant.netlify.app/
 
